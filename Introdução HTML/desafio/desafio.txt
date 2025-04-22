@@ -1,0 +1,48 @@
+Desafio de HTML - Catálogo de Eletrodomésticos
+
+Objetivo:
+Criar uma página HTML simulando um catálogo de eletrodomésticos. Sua missão é montar o HTML com os elementos descritos abaixo, utilizando as tags apropriadas por conta própria.
+
+Requisitos obrigatórios:
+
+1. Um título principal da página (ex: Catálogo de Eletrodomésticos).
+2. Um parágrafo explicando o objetivo da página.
+3. Três eletrodomésticos com as seguintes informações para cada um:
+   - Nome do produto
+   - Descrição
+   - Imagem (use o link de imagem indicado)
+   - Preço
+
+Itens para usar:
+
+Produto 1:
+Nome: Geladeira Brastemp Frost Free 375L  
+Descrição: Geladeira moderna, com amplo espaço interno e tecnologia frost free. Ideal para famílias de médio porte.  
+Imagem: https://images-americanas.b2w.io/produtos/01/00/img/126052/0/126052055_1GG.jpg  
+Preço: R$ 3.199,00
+
+Produto 2:
+Nome: Micro-ondas Electrolux 20L - Branco  
+Descrição: Compacto e funcional, ideal para aquecer ou preparar pequenas refeições com rapidez e praticidade.  
+Imagem: https://m.media-amazon.com/images/I/71qFyIob0gL._AC_SX679_.jpg  
+Preço: R$ 499,00
+
+Produto 3:
+Nome: Máquina de Lavar Consul 11Kg  
+Descrição: Com funções inteligentes de lavagem e economia de água, perfeita para famílias maiores.  
+Imagem: https://m.media-amazon.com/images/I/81p1wFCWldL._AC_SX679_.jpg  
+Preço: R$ 1.899,00
+
+4. Uma lista ordenada com 3 passos para realizar a compra (ex: Escolher produto, Adicionar ao carrinho, Finalizar a compra).
+5. Um link para um site de compras de sua escolha (ex: Amazon, Americanas, Magazine Luiza).
+6. Um rodapé com uma mensagem final de agradecimento.
+
+Bônus:
+- Crie uma tabela simples com os nomes dos produtos e seus respectivos preços.
+- Use CSS inline para adicionar um pouco de estilo aos elementos (opcional).
+
+Instrução final:
+Você deve usar as tags HTML corretamente para estruturar o conteúdo acima. Não copie e cole códigos prontos — monte você mesmo usando as tags como <h1>, <p>, <img>, <ol>, <li>, <a>, <footer>, <table>, etc.
+
+Boa sorte! 😎
+
