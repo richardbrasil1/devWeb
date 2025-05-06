@@ -1,9 +1,33 @@
+/* Tags, IDs e Classes */
+
+/* Tag */
 h1 {
     color: blue;
     font-weight: 200;
     font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p {
-    font-size: 45px;
+    color: orange;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+/* IDs */
+
+/* #primeiro-paragrafo,
+#segundo-paragrafo {
+    color: green;
+} */
+
+/* Classes */
+.paragrafo-bloco1 {
+    font-size: 24px;
+}
+
+.paragrafo-bloco2 {
+    font-size: 24px;
+    color: red;
 }
