@@ -3,17 +3,14 @@
 /* Tag */
 h1 {
     color: blue;
-    font-weight: 200;
-    font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
-p {
+/* p {
     color: orange;
-    font-size: 16px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 
-}
+} */
 
 /* IDs */
 
@@ -30,4 +27,11 @@ p {
 .paragrafo-bloco2 {
     font-size: 24px;
     color: red;
+}
+
+p span {
+    background-color: orange;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
 }
