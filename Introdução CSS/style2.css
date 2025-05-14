@@ -7,11 +7,13 @@ p {
 
 h1 {
     font-size: 60px;
+    line-height: 0.8;
 
 }
 
 h2 {
     font-size: 32px;
+    line-height: 0.7;
 
 
 }
@@ -23,6 +25,7 @@ h3 {
 
 p {
     font-size: 18px;
+    line-height: 1.5;
 
 }
 
@@ -31,4 +34,24 @@ p {
 .realce {
     font-style: italic;
     font-weight: 700;
+    color: rgb(54, 33, 73);
+}
+
+.caixa-alta {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(7, 7, 116);
+
+
+}
+
+a {
+    font-style: italic;
+    text-decoration: dotted;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+    color: coral;
+    font-weight: bold;
+
 }
